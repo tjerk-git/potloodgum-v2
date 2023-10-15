@@ -3,8 +3,8 @@ import Card from "./card";
 import Marquee from "./marquee";
 import Image from "next/image";
 import Link from "next/link";
-import { SubmitButton } from "./submitButton";
-import { submit } from '@/app/actions'
+// import { SubmitButton } from "./submitButton";
+// import { submit } from '@/app/actions'
 
 export default function Home() {
   return (
