@@ -35,7 +35,7 @@ export default async function Image() {
           textTransform: 'uppercase',
         }}
       >
-        Potloodgum, goede doelen, goede websites
+        Potloodgum: goede doelen, goede websites.
       </div>
     ),
     // ImageResponse options
