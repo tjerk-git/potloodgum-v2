@@ -29,6 +29,8 @@ export default function Home() {
         <Link target="_blank" href="https://hamaki.pro"><Image src="/hamaki.webp" width={100} height={100} alt="Potloodgum" /></Link>
         <Link target="_blank" href="https://sneup.it"><Image src="/sneup.webp" width={130} height={130} alt="Sneup logo" /></Link>
         <Link target="_blank" href="https://sprint.cards"><Image src="/sprint.webp" width={100} height={100} alt="Sprint cards" /></Link>
+        <Link target="_blank" href="https://kijkgat.com"><Image src="/kijkgat.png" width={100} height={100} alt="Kijkgat" /></Link>
+        <Link target="_blank" href="https://www.deboekenclub.club/"><Image src="/deboekenclub.png" width={100} height={100} alt="de boekenclub" /></Link>
       </section>
       <section id="contact">
         {/* <form action={submit}>
